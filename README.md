@@ -12,7 +12,7 @@ To run both: ./both.sh
 
 To kill process: ./killservers.sh
 
-Kind Regards
+
 
 
 
