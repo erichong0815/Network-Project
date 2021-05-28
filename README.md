@@ -1,4 +1,4 @@
-
+![image](https://github.com/erichong0815/Network-Project/blob/master/nw.png)
 This is my CITS3002 project, runs on LINUX system with Firefox Web Browser.
 		  Java and python code files are in the same folder(project).
 
