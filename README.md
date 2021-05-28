@@ -1,5 +1,5 @@
-Ka Hou Hong(22085304) 
-Dear Sir: This is my CITS3002 project, runs on LINUX system with Firefox Web Browser.
+
+This is my CITS3002 project, runs on LINUX system with Firefox Web Browser.
 		  Java and python code files are in the same folder(project).
 
 To run only java server: ./sJava.sh
